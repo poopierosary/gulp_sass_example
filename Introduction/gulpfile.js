@@ -12,5 +12,5 @@ Example: gulp.task('task-name', function(){
 gulp.task('sass', function() {
     return gulp.src('src/styles/**/*.scss')
         .pipe(sass())
-        .pipe(gulp.dest('bulld/styles'))
+        .pipe(gulp.dest('build/styles'))
 });

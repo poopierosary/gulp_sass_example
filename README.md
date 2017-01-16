@@ -9,7 +9,7 @@ This is an tutorial/exercise to use gulp task management to compile SASS (both .
 2. If using windows, please install git to use git bash to run it. It'll make your life easier.
 
 ### To dos
-- [ ] Reorder the structure of the tutorial/exercise to break it down.
+- [x] Reorder the structure of the tutorial/exercise to break it down.
 - [ ] Pinpoint the importance of what to do, i.e., adding in comments.
 - [ ] Possibly add in typescript into the mix.
 - [ ] Create one with Grunt task management.
